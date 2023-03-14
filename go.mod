@@ -11,17 +11,17 @@ require (
 	github.com/onsi/gomega v1.27.4
 	github.com/pborman/uuid v1.2.1
 	github.com/pkg/errors v0.9.1
-	honnef.co/go/tools v0.3.3
+	honnef.co/go/tools v0.4.2
 )
 
 require (
-	github.com/BurntSushi/toml v0.4.1 // indirect
+	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/uuid v1.0.0 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
-	golang.org/x/exp/typeparams v0.0.0-20220218215828-6cf2b201936e // indirect
+	golang.org/x/exp/typeparams v0.0.0-20221208152030-732eee02a75a // indirect
 	golang.org/x/mod v0.9.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
